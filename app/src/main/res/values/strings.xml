@@ -1,0 +1,8 @@
+
+<resources>
+    <string name="app_name">CBS-Radio</string>
+    <string name="about_text">Now Live</string>
+    <string name="web"><a href ="http://cbs.iitg.ernet.in/radio.html">Website</a></string>
+<string name="contact"><a href="https://www.facebook.com/cbsiitg">Contact Us</a></string>
+    <string name="devel"><a href="https://www.facebook.com/absgibson">Arkadeep</a></string>
+</resources>
